@@ -71,12 +71,23 @@
  ┃ ┣ 📂 services
  ┃ ┣ 📂 teams
  ┃ ┣ 📂 transitional
- ┃ ┗ 📂 vintage
+ ┃ ┣ 📂 vintage
+ ┃ ┣ 📜 favicon.jpg
+ ┃ ┣ 📜 favicon.webp
+ ┃ ┗ 📜 logo.svg
  ┣ 📂 js
  ┃ ┗ 📜 app.js
- ┣ 📜 index.html
  ┣ 📜 about.html
- ┣ 📜 ... (и другие страницы)
+ ┣ 📜 contact.html
+ ┣ 📜 favicon.ico
+ ┣ 📜 index.html
+ ┣ 📜 minimalist.html
+ ┣ 📜 modern.html
+ ┣ 📜 portfolio.html
+ ┣ 📜 services.html
+ ┣ 📜 teams.html
+ ┣ 📜 transitional.html
+ ┗ 📜 vintage.html
 ```
 </details>
 

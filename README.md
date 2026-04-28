@@ -77,3 +77,16 @@
  ┣ 📜 index.html
  ┣ 📜 about.html
  ┣ 📜 ... (и другие страницы)
+```
+</details>
+
+---
+
+## 👤 Автор
+
+**Valentin Legasi**
+
+* **Aspiring Back-end Developer** | Golang enthusiast
+* **GitHub**: [@Le9asi](https://github.com/Le9asi)
+
+*"Knowledge is power"* ⚡

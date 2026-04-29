@@ -99,7 +99,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone [https://github.com/Le9asi/dananz.git](https://github.com/Le9asi/dananz.git)
+   git clone https://github.com/Le9asi/dananz.git
    ```
 
 2. **Перейдите в директорию проекта:**
